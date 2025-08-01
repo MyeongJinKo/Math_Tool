@@ -15,3 +15,6 @@ def divide(a, b):
 
 def power_free(a, b):
   return a ** b
+
+def square(a):
+  return a*a
