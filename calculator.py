@@ -13,5 +13,5 @@ def divide(a, b):
     raise ValueError("Cannot divide by zero")
   return a / b
 
-def power(a, b):
+def power_premium(a, b):
   return a ** b
